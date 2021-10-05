@@ -1,0 +1,13 @@
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.csprojAssemblyReference.cache
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.AssemblyInfoInputs.cache
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.AssemblyInfo.cs
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.exe
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.deps.json
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.runtimeconfig.json
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.runtimeconfig.dev.json
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.dll
+C:\Users\Ruslanchik\source\repos\Polynom\bin\Debug\netcoreapp3.1\Polynom.pdb
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.dll
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.pdb
+C:\Users\Ruslanchik\source\repos\Polynom\obj\Debug\netcoreapp3.1\Polynom.genruntimeconfig.cache
